@@ -206,4 +206,4 @@ Tribler is available as a full free version with all features and updates includ
 Start your file-sharing journey today with Tribler and connect with a global community of users!
 
 ---
-**Last updated:** 2026-10-16 01:02:31 UTC
+**Last updated:** 2026-10-16 06:50:13 UTC
